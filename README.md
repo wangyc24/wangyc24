@@ -34,6 +34,7 @@
 
 | Project | Description | Tags |
 |---------|-------------|------|
+| **multi_SKU_online** | Transport-and-Pack using MCTS \| `Python` `Robotics` |
 | **Neural-Packing** | TAP-Net++ \| Visual Sensing to RL | `RL` `Vision` `Robotics` |
 | **TAP-Net** | Transport-and-Pack using Reinforcement Learning | `RL` `Optimization` |
 | **xv6-riscv** | OS Implementation for RISC-V | `C++``Systems` `RISC-V` |
