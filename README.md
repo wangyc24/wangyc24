@@ -36,8 +36,7 @@
 |---------|-------------|------|
 | **Neural-Packing** | TAP-Net++ \| Visual Sensing to RL | `RL` `Vision` `Robotics` |
 | **TAP-Net** | Transport-and-Pack using Reinforcement Learning | `RL` `Optimization` |
-| **xv6-riscv** | OS Implementation for RISC-V | `Systems` `RISC-V` |
-| **TechCPP** | C++ Interview & Learning Guide | `C++` `Backend` |
+| **xv6-riscv** | OS Implementation for RISC-V | `C++``Systems` `RISC-V` |
 | **neural-combinatorial-rl-pytorch** | Neural CO with RL Implementation | `PyTorch` `RL` |
 
 ### 🎯 Current Focus
