@@ -49,7 +49,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [163Email](wyc02090224@163.com)
+- 📧 Email: [wyc02090224@163.com](mailto:wyc02090224@163.com)
 - 🌐 GitHub: [@wangyc24](https://github.com/wangyc24)
 
 ---
