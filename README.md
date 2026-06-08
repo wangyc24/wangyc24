@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yingchen Wang
+# Hi there 👋, I'm Yucheng Wang
 
 ## 🎓 AI & Robotics Algorithm Researcher | Deep Learning Enthusiast
 
@@ -49,7 +49,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [GitHub Profile](https://github.com/wangyc24)
+- 📧 Email: [163Email](wyc02090224@163.com)
 - 🌐 GitHub: [@wangyc24](https://github.com/wangyc24)
 
 ---
